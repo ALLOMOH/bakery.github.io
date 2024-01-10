@@ -1,6 +1,3 @@
-/*=============== SpeedInsights ===============*/
-import{SpeedInsights} from '../../node_modules/@vercel/speed-insights/dist/next';
-SpeedInsights;
 /*=============== SHOW MENU ===============*/
 const navMenu = document.getElementById('nav-menu'),
     navToggle = document.getElementById('nav-toggle'),
